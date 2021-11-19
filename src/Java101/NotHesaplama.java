@@ -3,7 +3,7 @@ package Java101;
 import java.util.Scanner;
 
 public class NotHesaplama {
-    // Create an object and then use the run method to test...
+
     public NotHesaplama() {
     }
 
